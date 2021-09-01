@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=TechieNK)
 [![twitter badge](https://img.shields.io/badge/twitter-Naresh_NK_Kumar-0077b5?style=social&logo=twitter)](https://twitter.com/Naresh_NK_Kumar)<br>
 <h3>Naresh Kumar's Portfolio</h3>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="160" />
+<!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="160" />-->
 <ul>
   <li>🔭 I’m currently working on Deep Learning</li>
   <li>💬 Ask me about App Development</li>
