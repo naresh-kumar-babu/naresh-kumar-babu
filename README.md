@@ -10,14 +10,16 @@
   <li>📫 How to reach me: Telegram => <a href = "https://t.me/TechieNK" target="_blank">@TechieNK</a></li>
   <li>😄 Pronouns: he/him/his</li>
 </ul><br>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=TechieNK&show_icons=true&&title_color=03E6FF&text_color=9f9f9f&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=TechieNK&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
+
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=TechieNK&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/TechieNK)
+   
+   
+   
+<div align="center">
+<p align="left">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=TechieNK&show_icons=true&&title_color=03E6FF&text_color=9f9f9f&theme=radical" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=TechieNK&theme=dark&hide_border=true" />
+</p>
+</div>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechieNK&hide=html&title_color=03E6FF&text_color=9f9f9f&icon_color=79ff97&bg_color=151515" />
