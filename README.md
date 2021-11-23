@@ -10,7 +10,7 @@
   <li>📫 How to reach me: Telegram => <a href = "https://t.me/TechieNK" target="_blank">@TechieNK</a></li>
   <li>😄 Pronouns: he/him/his</li>
   <li>✨ You can find my blogs on => <a href = "https://techienk.github.io" target="_blank">techienk.github.io</a></li>
-  <li>You can find my resume <a href = "https://github.com/TechieNK/TechieNK.github.io/raw/source/static/files/NK-resume.pdf">here</a></li>
+  <!--<li>You can find my resume <a href = "https://github.com/TechieNK/TechieNK.github.io/raw/source/static/files/NK-resume.pdf">here</a></li>-->
 </ul><br>
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=TechieNK&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/TechieNK)
