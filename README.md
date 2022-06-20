@@ -5,7 +5,7 @@
 <h3>Naresh Kumar's Portfolio</h3>
 <!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="160" />-->
 <ul>
-  <li>🔭 I’m currently working on Deep Learning</li>
+  <li>🔭 I’m currently working on Deep Learning and Multiplatform App Development</li>
   <li>💬 Ask me about Web Development</li>
   <li>📫 How to reach me: Telegram => <a href = "https://t.me/TechieNK" target="_blank">@TechieNK</a></li>
   <li>😄 Pronouns: he/him/his</li>
