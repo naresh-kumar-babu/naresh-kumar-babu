@@ -26,4 +26,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechieNK&hide=html&title_color=03E6FF&text_color=9f9f9f&icon_color=79ff97&bg_color=151515" />
 <summary><b>🏆 Github Achievements</b></summary><br>
-<p> <a href="https://github.com/techienk"><img src="https://github-profile-trophy.vercel.app/?username=techienk&margin-w=5&theme=radical" alt="TechieNK" /></a> </p>
+<p> <a href="https://github.com/techienk"><img src="https://github-profile-trophy.vercel.app/?username=techienk" alt="TechieNK" /></a> </p>
